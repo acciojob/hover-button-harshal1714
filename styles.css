@@ -1,13 +1,21 @@
-#btn{
-	background:black;
-	color:white;
-	border:none;
-	border-radius:5px;
+/*  your css code here. If applicable */
+
+img {
+	width: 120px;
+	height: 90px;
+	border-radius: 15px
 }
-#btn:hover{
-	background:yellow;
-	color:black;
-	border:none;
-	border-radius:30px;
+#photo-heading {
+	text-align: center;
+	color: white;
+	font-size: 25px;
 }
-/* Your CSS Code here. */
+#animal-photos {
+	background-color: #393646;
+	width:369px;
+	margin-left: auto;
+	margin-right:auto;
+	padding:5px;
+	border-radius: 15px;
+	
+}
