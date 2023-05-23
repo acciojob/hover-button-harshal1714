@@ -1,2 +1,11 @@
-
+.submit{
+	background:black;
+	color:white;
+	border-radius:5px;
+}
+.submit:hover{
+	background:yellow;
+	color:black;
+	border-radius:30px;
+}
 /* Your CSS Code here. */
